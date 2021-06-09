@@ -1,1 +1,1 @@
-smart-garage
+# Smart Garage for Raspberry Pi - SIT210
